@@ -24,7 +24,7 @@ body {
     margin: 0px;
     font-family: sans-serif;
 
-    overflow: hidden;
+    overflow: hidden !important;
 
 
 
